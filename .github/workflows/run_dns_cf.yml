@@ -1,4 +1,4 @@
-name: 'dns_cf_push'
+name: 'run_dns_cf_push'
 
 on:
   schedule:
